@@ -1,3 +1,4 @@
+import 'package:cinebox/ui/login/login_screen.dart';
 import 'package:cinebox/ui/splash/splash_screen.dart';
 import 'package:flutter/material.dart';
 
@@ -10,8 +11,9 @@ class CineboxMainApp extends StatelessWidget {
       title: 'Cinebox',
       routes: {
         '/': (_) => SplashScreen(),
+        '/login': (_) => LoginScreen(),
       },
-     // home: Container(),
+      // home: Container(),
     );
   }
 }
