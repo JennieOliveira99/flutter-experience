@@ -46,7 +46,7 @@ final class SplashViewModelProvider
   }
 }
 
-String _$splashViewModelHash() => r'123fe104c64f8b9995a9169c18755e8e8035a9ee';
+String _$splashViewModelHash() => r'c5547aa3c21f89ae5ff3bf13e8f4cec5d7a8726c';
 
 // ignore_for_file: type=lint
 // ignore_for_file: subtype_of_sealed_class, invalid_use_of_internal_member, invalid_use_of_visible_for_testing_member, deprecated_member_use_from_same_package
